@@ -3,23 +3,14 @@
     {
       "title": "Ice Hockey",
       "lists": [
-        {
-          "link": "EIHL1718",
-          "name": "Elite League 2017-18"
-        },
-        {
-          "link": "EIHL1819",
-          "name": "Elite League 2018-19"
-        }
+        {"link":"EIHL1718","name":"Elite League 2017-18"},
+        {"link":"EIHL1819","name":"Elite League 2018-19"}
       ]
     },
     {
       "title": "Football",
       "lists": [
-        {
-          "link": "EPL1819",
-          "name": "Premier League 2018-19"
-        }
+        {"link":"EPL1819","name":"Premier League 2018-19"}
       ]
     }
   ]
