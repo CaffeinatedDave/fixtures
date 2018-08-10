@@ -27,7 +27,7 @@
   "fixtures": [{
     "competition": "PL",
     "fixtures": [
-			{"date":"Fri 10 Aug 2018","time":"20:00","home":"MUN","away":"LEI"},
+			{"date":"Fri 10 Aug 2018","time":"20:00","home":"MUN","away":"LEI","scoreH":2,"scoreA":1},
 			{"date":"Sat 11 Aug 2018","time":"12:30","home":"NEW","away":"TOT"},
 			{"date":"Sat 11 Aug 2018","time":"15:00","home":"BOU","away":"CDF"},
 			{"date":"Sat 11 Aug 2018","time":"15:00","home":"FUL","away":"CRY"},
