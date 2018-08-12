@@ -36,7 +36,7 @@
 			{"date":"Sat 11 Aug 2018","time":"17:30","home":"WOL","away":"EVE","scoreH":2,"scoreA":2},
 			{"date":"Sun 12 Aug 2018","time":"13:30","home":"LIV","away":"WHU","scoreH":4,"scoreA":0},
 			{"date":"Sun 12 Aug 2018","time":"13:30","home":"SOU","away":"BUR","scoreH":0,"scoreA":0},
-			{"date":"Sun 12 Aug 2018","time":"16:00","home":"AFC","away":"MCI"},
+			{"date":"Sun 12 Aug 2018","time":"16:00","home":"AFC","away":"MCI","scoreH":0,"scoreA":2},
 			{"date":"Sat 18 Aug 2018","time":"12:30","home":"CDF","away":"NEW"},
 			{"date":"Sat 18 Aug 2018","time":"15:00","home":"EVE","away":"SOU"},
 			{"date":"Sat 18 Aug 2018","time":"15:00","home":"LEI","away":"WOL"},
