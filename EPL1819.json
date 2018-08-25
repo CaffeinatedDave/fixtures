@@ -52,7 +52,7 @@
 			{"date":"Sat 25 Aug 2018","time":"15:00","home":"BOU","away":"EVE","scoreH":2,"scoreA":2},
 			{"date":"Sat 25 Aug 2018","time":"15:00","home":"HUD","away":"CDF","scoreH":0,"scoreA":0},
 			{"date":"Sat 25 Aug 2018","time":"15:00","home":"SOU","away":"LEI","scoreH":1,"scoreA":2},
-			{"date":"Sat 25 Aug 2018","time":"17:30","home":"LIV","away":"BHA"},
+			{"date":"Sat 25 Aug 2018","time":"17:30","home":"LIV","away":"BHA","scoreH":1,"scoreA":0},
 			{"date":"Sun 26 Aug 2018","time":"13:30","home":"WAT","away":"CRY"},
       {"date":"Sun 26 Aug 2018","time":"16:00","home":"FUL","away":"BUR"},
 			{"date":"Sun 26 Aug 2018","time":"16:00","home":"NEW","away":"CHE"},
