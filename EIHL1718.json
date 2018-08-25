@@ -1,5 +1,15 @@
 {
   "settings": {
+    "winPoints":2,
+    "winAOTPoints":2,
+    "loseAOTPoints":1,
+    "drawPoints":1,
+    "losePoints":0,
+    "conferences": [
+      {"name":"Erdhart","games":"EIHL","teams":["BEL","CAR","NOT","SHF"]},
+      {"name":"Gardiner","games":"EIHL","teams":["DUN","FIF","BRA","EDI"]},
+      {"name":"Patton","games":"EIHL","teams":["MAN","MKL","COV","GFD"]}
+    ]
   },
   "teams": {
     "BEL": {"name": "Belfast Giants"},
