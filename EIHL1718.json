@@ -5,6 +5,7 @@
     "loseAOTPoints":1,
     "drawPoints":1,
     "losePoints":0,
+    "statsShown": ["GP", "W", "L", "OTL", "GF", "GA", "PT"]
     "conferences": [
       {"name":"League","games":"EIHL","teams":["BEL","BRA","CAR","COV","DUN","EDI","FIF","GFD","MCR","MKL","NOT","SHF"]},
       {"name":"Erdhart","games":"EIHL","teams":["BEL","CAR","NOT","SHF"]},
