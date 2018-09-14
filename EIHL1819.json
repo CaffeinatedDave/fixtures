@@ -57,7 +57,7 @@
       {"date":"Sat 08 Sep 2018","home":"NOT","away":"MCR","time":"7:00 pm","scoreH":2,"scoreA":1},
       {"date":"Sun 09 Sep 2018","home":"MKL","away":"SHF","time":"5:15 pm","scoreH":2,"scoreA":5},
       {"date":"Sun 09 Sep 2018","home":"MCR","away":"NOT","time":"5:30 pm","scoreH":1,"scoreA":4},
-      {"date":"Wed 12 Sep 2018","home":"SHF","away":"FIF","time":"7:30 pm"},
+      {"date":"Wed 12 Sep 2018","home":"SHF","away":"FIF","time":"7:30 pm","scoreH":3,"scoreA":3,"scoreHOT":4},
       {"date":"Sat 15 Sep 2018","home":"CAR","away":"NOT","time":"7:00 pm"},
       {"date":"Sun 16 Sep 2018","home":"COV","away":"NOT","time":"5:15 pm"},
       {"date":"Sun 16 Sep 2018","home":"MCR","away":"GLS","time":"5:30 pm"},
